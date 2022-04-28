@@ -1,4 +1,4 @@
-# wheather-now
+# weather-now
 
 ## Project setup
 ```

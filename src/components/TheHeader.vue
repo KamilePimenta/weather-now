@@ -1,6 +1,6 @@
 <template>
   <header>
-    <img class="logo" alt="Wheather Now logo" src="../assets/logo.svg">
+    <img class="logo" alt="Weather Now logo" src="../assets/logo.svg">
   </header>
 </template>
 
